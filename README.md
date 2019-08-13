@@ -16,6 +16,18 @@ cd ~/bin/aws-xray-daemon-macos-3.x
 npm run dev
 ```
 
+---
+
+## Screenshots
+
+![](https://www.evernote.com/l/AAGVZf0DvolDI76-xRZeQORjMTr1AwVBu9sB/image.png)
+
+![](https://www.evernote.com/l/AAGPchPBVx5IOL4fAroHfF3ouneyhZ0dWt4B/image.png)
+
+![](https://www.evernote.com/l/AAG7Hw9JaWlCD6bbhHkqeUc00RnB2uqzHKsB/image.png)
+
+![](https://www.evernote.com/l/AAEZGf40tEtDqLrqyBVl-uQI9TxCzRPKhoUB/image.png)
+
 ## Resources
 
 * [aws/aws-xray-sdk-node](https://github.com/aws/aws-xray-sdk-node)
